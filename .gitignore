@@ -1,0 +1,6 @@
+*.bak
+*.ppu
+*.o
+*.exe
+.DS_Store
+*.compiled

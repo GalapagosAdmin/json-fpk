@@ -1,0 +1,31 @@
+{ This is an automatically generated lazarus resource file }
+
+LazarusResources.Add('TfrmJSONTree','FORMDATA',[
+  'TPF0'#12'TfrmJSONTree'#11'frmJSONTree'#4'Left'#3#199#0#6'Height'#3#238#1#3'T'
+  +'op'#3#146#0#5'Width'#3#139#3#7'Caption'#6#14'JSON Tree Demo'#12'ClientHeigh'
+  +'t'#3#238#1#11'ClientWidth'#3#139#3#4'Menu'#7#9'MainMenu1'#10'LCLVersion'#6#6
+  +'0.9.29'#0#10'TStatusBar'#10'StatusBar1'#4'Left'#2#0#6'Height'#2#20#3'Top'#3
+  +#218#1#5'Width'#3#139#3#6'Panels'#14#0#0#0#12'TPageControl'#12'PageControl1'
+  +#4'Left'#2#0#6'Height'#3#218#1#3'Top'#2#0#5'Width'#3#139#3#10'ActivePage'#7#9
+  +'TabSheet2'#5'Align'#7#8'alClient'#8'TabIndex'#2#1#8'TabOrder'#2#1#0#9'TTabS'
+  +'heet'#9'TabSheet1'#7'Caption'#6#8'Raw Text'#12'ClientHeight'#3#139#1#11'Cli'
+  +'entWidth'#3#133#3#0#5'TMemo'#6'mmFile'#4'Left'#2#0#6'Height'#3#139#1#3'Top'
+  +#2#0#5'Width'#3#133#3#5'Align'#7#8'alClient'#13'Lines.Strings'#1#6#6'mmFile'
+  +#0#8'TabOrder'#2#0#0#0#0#9'TTabSheet'#9'TabSheet2'#7'Caption'#6#9'Tree View'
+  +#12'ClientHeight'#3#179#1#11'ClientWidth'#3#133#3#0#9'TTreeView'#9'TreeView1'
+  +#4'Left'#2#0#6'Height'#3#143#1#3'Top'#2'$'#5'Width'#3#133#3#5'Align'#7#8'alB'
+  +'ottom'#7'Anchors'#11#5'akTop'#6'akLeft'#7'akRight'#8'akBottom'#0#8'ReadOnly'
+  +#9#8'TabOrder'#2#0#18'OnSelectionChanged'#7#24'acnUpdateTreePathExecute'#7'O'
+  +'ptions'#11#17'tvoAutoItemHeight'#16'tvoHideSelection'#21'tvoKeepCollapsedNo'
+  +'des'#11'tvoReadOnly'#14'tvoShowButtons'#12'tvoShowLines'#11'tvoShowRoot'#11
+  +'tvoToolTips'#0#0#0#7'TButton'#10'btnAnalyze'#4'Left'#2#5#6'Height'#2#25#3'T'
+  +'op'#2#4#5'Width'#2'X'#7'Caption'#6#10'Parse Node'#7'OnClick'#7#15'btnAnalyz'
+  +'eClick'#8'TabOrder'#2#1#0#0#0#0#11'TOpenDialog'#11'OpenDialog1'#4'left'#2'p'
+  +#3'top'#2#7#0#0#11'TActionList'#11'ActionList1'#4'left'#3#160#0#3'top'#2#8#0
+  +#7'TAction'#11'acnFileOpen'#7'Caption'#6#11'acnFileOpen'#9'OnExecute'#7#18'a'
+  +'cnFileOpenExecute'#0#0#7'TAction'#17'acnUpdateTreePath'#7'Caption'#6#17'acn'
+  +'UpdateTreePath'#9'OnExecute'#7#24'acnUpdateTreePathExecute'#0#0#0#9'TMainMe'
+  +'nu'#9'MainMenu1'#4'left'#3#200#0#3'top'#2#7#0#9'TMenuItem'#6'miFile'#7'Capt'
+  +'ion'#6#4'File'#0#9'TMenuItem'#10'miFileOpen'#6'Action'#7#11'acnFileOpen'#7
+  +'Caption'#6#7'Open...'#7'OnClick'#7#18'acnFileOpenExecute'#0#0#0#0#0
+]);

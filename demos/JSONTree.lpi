@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="7"/>
+    <General>
+      <MainUnit Value="0"/>
+      <TargetFileExt Value=""/>
+      <Icon Value="0"/>
+      <UseXPManifest Value="True"/>
+      <ActiveEditorIndexAtStart Value="6"/>
+    </General>
+    <VersionInfo>
+      <Language Value=""/>
+      <CharSet Value=""/>
+    </VersionInfo>
+    <PublishOptions>
+      <Version Value="2"/>
+      <IgnoreBinaries Value="False"/>
+      <IncludeFileFilter Value="*.(pas|pp|inc|lfm|lpr|lrs|lpi|lpk|sh|xml)"/>
+      <ExcludeFileFilter Value="*.(bak|ppu|ppw|o|so);*~;backup"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+        <LaunchingApplication PathPlusParams="/usr/X11R6/bin/xterm -T 'Lazarus Run Output' -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+      </local>
+    </RunParams>
+    <RequiredPackages Count="1">
+      <Item1>
+        <PackageName Value="LCL"/>
+      </Item1>
+    </RequiredPackages>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="JSONTree.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="JSONTree"/>
+        <CursorPos X="79" Y="2"/>
+        <TopLine Value="1"/>
+        <EditorIndex Value="4"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="jsontreeunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmJSONTree"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="JSONTreeUnit"/>
+        <CursorPos X="25" Y="52"/>
+        <TopLine Value="43"/>
+        <EditorIndex Value="0"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../json.pas"/>
+        <UnitName Value="JSON"/>
+        <CursorPos X="24" Y="61"/>
+        <TopLine Value="49"/>
+        <EditorIndex Value="5"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../jsondecode.pas"/>
+        <UnitName Value="jsondecode"/>
+        <CursorPos X="74" Y="170"/>
+        <TopLine Value="146"/>
+        <EditorIndex Value="6"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../../smartfm/GetStudyJSON.txt"/>
+        <CursorPos X="1" Y="1"/>
+        <TopLine Value="1"/>
+        <EditorIndex Value="3"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+        <SyntaxHighlighter Value="None"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../../../../../../Developer/lazarus/lcl/buttons.pp"/>
+        <UnitName Value="Buttons"/>
+        <CursorPos X="25" Y="141"/>
+        <TopLine Value="117"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../../../../../../Developer/lazarus/lcl/interfaces/carbon/carbonprivatecontrol.inc"/>
+        <CursorPos X="1" Y="793"/>
+        <TopLine Value="784"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit6>
+    </Units>
+    <JumpHistory Count="28" HistoryIndex="27">
+      <Position1>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="127" Column="37" TopLine="113"/>
+      </Position1>
+      <Position2>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="129" Column="37" TopLine="113"/>
+      </Position2>
+      <Position3>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="150" Column="35" TopLine="144"/>
+      </Position3>
+      <Position4>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="151" Column="35" TopLine="144"/>
+      </Position4>
+      <Position5>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="150" Column="35" TopLine="144"/>
+      </Position5>
+      <Position6>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="151" Column="35" TopLine="144"/>
+      </Position6>
+      <Position7>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="150" Column="35" TopLine="144"/>
+      </Position7>
+      <Position8>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="151" Column="35" TopLine="144"/>
+      </Position8>
+      <Position9>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="146" Column="29" TopLine="135"/>
+      </Position9>
+      <Position10>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="153" Column="29" TopLine="135"/>
+      </Position10>
+      <Position11>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="79" Column="60" TopLine="78"/>
+      </Position11>
+      <Position12>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="174" Column="11" TopLine="157"/>
+      </Position12>
+      <Position13>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="83" Column="3" TopLine="79"/>
+      </Position13>
+      <Position14>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="5" Column="40" TopLine="1"/>
+      </Position14>
+      <Position15>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="182" Column="5" TopLine="171"/>
+      </Position15>
+      <Position16>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="181" Column="5" TopLine="170"/>
+      </Position16>
+      <Position17>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="180" Column="5" TopLine="169"/>
+      </Position17>
+      <Position18>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="179" Column="5" TopLine="168"/>
+      </Position18>
+      <Position19>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="147" Column="31" TopLine="132"/>
+      </Position19>
+      <Position20>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="148" Column="26" TopLine="139"/>
+      </Position20>
+      <Position21>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="149" Column="26" TopLine="139"/>
+      </Position21>
+      <Position22>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="154" Column="33" TopLine="143"/>
+      </Position22>
+      <Position23>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="109" Column="40" TopLine="106"/>
+      </Position23>
+      <Position24>
+        <Filename Value="../jsondecode.pas"/>
+        <Caret Line="8" Column="65" TopLine="7"/>
+      </Position24>
+      <Position25>
+        <Filename Value="jsontreeunit.pas"/>
+        <Caret Line="52" Column="25" TopLine="43"/>
+      </Position25>
+      <Position26>
+        <Filename Value="../jsondecode.pas"/>
+        <Caret Line="167" Column="32" TopLine="18"/>
+      </Position26>
+      <Position27>
+        <Filename Value="../jsondecode.pas"/>
+        <Caret Line="168" Column="56" TopLine="159"/>
+      </Position27>
+      <Position28>
+        <Filename Value="../jsondecode.pas"/>
+        <Caret Line="170" Column="64" TopLine="161"/>
+      </Position28>
+    </JumpHistory>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="8"/>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)/"/>
+    </SearchPaths>
+    <Linking>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+    <Other>
+      <CompilerPath Value="$(CompPath)"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>
